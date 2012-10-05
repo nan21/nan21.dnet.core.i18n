@@ -10,7 +10,7 @@
 	<artifactId>nan21.dnet.core.i18n</artifactId>
 	<name>DNet Core - Language packs</name>
 	<description>Translation files for the core framework.</description>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	
 	<scm>
 		<url>https://github.com/nan21/nan21.dnet.core.i18n</url>
@@ -32,7 +32,6 @@
 			<artifactId>yuicompressor</artifactId>
 			<version>2.4.2</version>
 			<type>jar</type>
-			<scope>provided</scope>
 		</dependency>
 	</dependencies>
 </project>

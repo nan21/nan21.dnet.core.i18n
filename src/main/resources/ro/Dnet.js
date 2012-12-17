@@ -7,6 +7,7 @@ dnet.Translation = {
 		calendar__lbl : "Calendar",
 		changepswd__lbl : "Schimbă parola",
 		client__lbl : "Client",
+		dbchangelog__lbl : "Schimbari baza de date",
 		frameInspector__lbl : "Inspector cadru",
 		help__lbl : "Ajutor",
 		home__lbl : "Acasă",

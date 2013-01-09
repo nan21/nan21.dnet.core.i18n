@@ -18,6 +18,7 @@ dnet.Translation = {
 		myaccount__lbl : "Contul meu",
 		mysettings__lbl : "Setările mele",
 		session__lbl : "Sesiune",
+		sysparams__lbl : "Parametri sistem",
 		theme__lbl : "Stil",
 		theme_access__lbl : "Negru",
 		theme_aqua__lbl : "Aqua",

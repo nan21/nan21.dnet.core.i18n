@@ -18,6 +18,7 @@ dnet.Translation = {
 		myaccount__lbl : "My account",
 		mysettings__lbl : "My settings",
 		session__lbl : "Session",
+		sysparams__lbl : "System parameters",
 		theme__lbl : "Theme",
 		theme_access__lbl : "Black",
 		theme_aqua__lbl : "Aqua",
